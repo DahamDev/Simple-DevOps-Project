@@ -1,6 +1,7 @@
 # Simple DevOps Project
 
-[![Image](https://github.com/yankils/Simple-DevOps-Project/blob/master/Devops_course.PNG "DevOps Project - CI/CD with Jenkins Ansible Docker Kubernetes ")](https://www.udemy.com/course/valaxy-devops/?referralCode=8147A5CF4C8C7D9E253F)
+![image](https://user-images.githubusercontent.com/96166776/153540390-b07a40c7-1320-4d33-82f2-6e4fb0ac218c.png)
+
 
 This Repository is a collection of Implementation documents. 
 
